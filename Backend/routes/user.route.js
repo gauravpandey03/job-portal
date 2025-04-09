@@ -6,7 +6,7 @@ import {
   updateProfile,
 } from "../controllers/user.controller.js";
 import authenticateToken from "../middleware/isAuthenticated.js";
-//import { singleUpload } from "../middleware/multer.js";
+
 
 const router = express.Router();
 

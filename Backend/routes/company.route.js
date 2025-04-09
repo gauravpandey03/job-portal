@@ -7,7 +7,7 @@ import {
   registerCompany,
   updateCompany,
 } from "../controllers/company.controllers.js";
-//import { singleUpload } from "../middleware/multer.js";
+
 
 const router = express.Router();
 
