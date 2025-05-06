@@ -12,9 +12,9 @@ const Footer = () => {
           backgroundColor: "#f1f1f1",
         }}
       >
-        <p>© 2025 Gaurav Pandey. All rights reserved.</p>
+        <p>© 2025 Career Sathi : Job Portal. All rights reserved.</p>
         <p>
-          Powered by <a href="https://github.com/gauravpandey03/">Gaurav Pandey</a>
+          Powered by <a href="#">Career Sathi</a>
         </p>
         <p>
           <Link to={"/PrivacyPolicy"}>Privacy Policy </Link> |
